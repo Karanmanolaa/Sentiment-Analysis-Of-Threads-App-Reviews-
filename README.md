@@ -25,4 +25,6 @@ for differnt like
   Random Forest model did the best with and accuracy of 0.8243.
 
   # 4- Visualizations:
+
+  ![](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/blob/main/images/download%202.png)
   
