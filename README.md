@@ -26,5 +26,5 @@ for differnt like
 
   # 4- Visualizations:
 
-  ![](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/blob/main/images/download%202.png)
+  ![Image](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/blob/main/images/download%202.png)
   
