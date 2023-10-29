@@ -16,7 +16,7 @@ This model has the potential to enhance the user experience by addressing issues
 
 # 3- Technical Aspects :
 In this project i have used python programming language and its libraries - NLTK,scikit-learn,pandas, numpy,re,matplotlib,seaborn
-for differnt like
+for different purpose like
 - Performed Explolatory data analysis using matplotlib and seaborn.
 - Figure out if reviews were positive, negative, or neutral using a pretrained model called VADER(Valence Aware Dictionary and sEntiment Reasoner) .
 - Created new features (feature engineering) like sentiment	,text_length,	sentiment_numerical.
