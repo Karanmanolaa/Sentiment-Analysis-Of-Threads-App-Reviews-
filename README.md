@@ -4,8 +4,8 @@
 - Overview
 - Problem Statement and Motivation
 - Technical Aspects
+- Challenges Faced and Solutions
 - Visualizations
-- Challenges and Solutions
 
 # 1- Overview :
 The aim of this project is to perform sentiment analysis on user reviews of the Threads app, a social media platform. Using Natural Language Processing (NLP) and machine learning techniques, we aim to determine the sentiments expressed in these reviews. The dataset, consisting of approximately 30,000 reviews, includes user ratings ranging from 1 to 5. The dataset was sourced from Kaggle and serves as the foundation for training our sentiment analysis model.
@@ -24,7 +24,16 @@ for different purpose like
 - I tried several models like Naive Bayes, Random Forest,XGBoost.
   Random Forest model did the best with and accuracy of 0.8243.
 
-  # 4- Visualizations:
+ # 4- Challenges Faced and Solutions:
+ Challenges - 
+ - One significant challenge we encountered was the class imbalance in the dataset. Most of the reviews had positive sentiments, making it difficult to train a model 
+  effectively due to the skewed distribution of classes.
+ Solutions -
+ - To address the class imbalance issue, we applied the Synthetic Minority Over-sampling Technique (SMOTE). SMOTE is a powerful method that helped us balance the dataset by 
+  generating synthetic samples for the minority class. This improved the model's performance and the accuracy of sentiment analysis.
+
+ 
+ Visualizations:
   ![](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/blob/main/images/download%202.png)
   
 
