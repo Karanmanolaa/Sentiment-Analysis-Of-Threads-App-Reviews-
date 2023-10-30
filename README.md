@@ -38,12 +38,16 @@ for different purpose like
 
  
  # 5- Visualizations:
+
+ ### Most frequent words:
+
+   ![download 4](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/7398414a-9858-4ccb-bef6-7ce50c1cc08f)
   
   ![download 2](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/a066e375-6459-4b31-9ed6-2d68d5b90504)
 
   ![download 3](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/c4f8db7d-b35e-4bd3-b086-1075620bc908)
 
-  ![download 4](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/7398414a-9858-4ccb-bef6-7ce50c1cc08f)
+
 
   ![download 5](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/2201cec0-dbd3-424a-8f91-5c929d1e203b)
 
