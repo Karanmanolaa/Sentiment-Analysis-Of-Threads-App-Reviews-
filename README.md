@@ -35,7 +35,9 @@ for different purpose like
 
  
  # 5- Visualizations:
-  ![](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/blob/main/images/download%202.png)
+  
+  ![download 2](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/a066e375-6459-4b31-9ed6-2d68d5b90504)
+
   
 
   
