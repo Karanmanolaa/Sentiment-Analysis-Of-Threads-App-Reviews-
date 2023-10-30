@@ -1,5 +1,8 @@
 # Project 1 - Sentiment-Analysis-Of-Threads-App-Reviews
 
+![0_Pxn2PsM6YHCEOlkC](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/assets/144649975/55bbe598-1997-45b8-b525-4fa26b6f70ea)
+
+
 # Table of Content
 - Overview
 - Problem Statement and Motivation
