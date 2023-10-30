@@ -28,12 +28,13 @@ for different purpose like
  Challenges - 
  - One significant challenge we encountered was the class imbalance in the dataset. Most of the reviews had positive sentiments, making it difficult to train a model 
   effectively due to the skewed distribution of classes.
+
  Solutions -
  - To address the class imbalance issue, we applied the Synthetic Minority Over-sampling Technique (SMOTE). SMOTE is a powerful method that helped us balance the dataset by 
   generating synthetic samples for the minority class. This improved the model's performance and the accuracy of sentiment analysis.
 
  
- Visualizations:
+ # 5- Visualizations:
   ![](https://github.com/Karanmanolaa/Sentiment-Analysis-Of-Threads-App-Reviews-/blob/main/images/download%202.png)
   
 
